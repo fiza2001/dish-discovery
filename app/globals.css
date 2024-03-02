@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+/* create form */
+.create-main{
+  width: 30rem;
+  margin-left: 20rem;
+}
